@@ -26,6 +26,15 @@ I’m actively building **technical security skills** through hands-on projects,
 
 ---
 
+### 📜 Certifications
+- CompTIA Security+
+- CompTIA CySA+
+- CompTIA PenTest+
+- CompTIA SecurityX (Expected September 2025)
+- CISM (Expected December 2025)
+
+---
+
 ### 📫 Connect
-[LinkedIn](#) • [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/johnsperry)
 
