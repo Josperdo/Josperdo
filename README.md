@@ -19,8 +19,10 @@ Currently operating in the **GRC** space with a strong focus on cybersecurity fr
 ---
 
 ### 📂 Projects
-- [Project Name](#) — Short one-line description.
-- [Project Name](#) — Short one-line description.
+- [Upcoming Project](#) — 
+- [Upcoming Project](#) — 
+- [Upcoming Project](#) — 
+
 
 ---
 
