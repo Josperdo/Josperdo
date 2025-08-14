@@ -36,5 +36,5 @@ Currently operating in the **GRC** space with a strong focus on cybersecurity fr
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/johnsperry)
+[LinkedIn](https://www.linkedin.com/in/johnrobsperry/)
 
