@@ -21,7 +21,7 @@ Currently operating in the **GRC** space with a strong focus on cybersecurity fr
 
 ### 🛠 Tech I Use
 `Python` `Bash` `PowerShell` `C#`  
-`Linux` `Azure` `AWS` `SQL`
+`.Net ` `Linux` `Azure` `AWS` `SQL`
 
 ---
 
