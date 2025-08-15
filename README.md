@@ -12,17 +12,16 @@ Currently operating in the **GRC** space with a strong focus on cybersecurity fr
 
 ---
 
-### 🛠 Tech I Use
-`Python` `Bash` `PowerShell` `C#`  
-`Linux` `Azure` `AWS` `SQL`
-
----
-
 ### 📂 Projects
 - [Winlog-Detect](https://github.com/Josperdo/winlog-detect) — Parses Windows Security logs (4625 & 4688) to detect failed-logon surges and suspicious process creation in a safe, reproducible lab environment.
 - [Upcoming Project](#) — 
-- [Upcoming Project](#) — 
+- [Upcoming Project](#) —
+  
+---
 
+### 🛠 Tech I Use
+`Python` `Bash` `PowerShell` `C#`  
+`Linux` `Azure` `AWS` `SQL`
 
 ---
 
