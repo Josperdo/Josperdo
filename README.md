@@ -14,7 +14,7 @@ Currently operating in the **GRC** space with a strong focus on cybersecurity fr
 
 ### 📂 Projects
 - [Winlog-Detect](https://github.com/Josperdo/winlog-detect) — Parses Windows Security logs (4625 & 4688) to detect failed-logon surges and suspicious process creation in a safe, reproducible lab environment.
-- [Upcoming Project](#) — 
+- [TLS & Cert Health CLI](https://github.com/Josperdo/tlschecker-dotnet) — .NET TLS health checker with cert expiry and HSTS validation; batch JSON output and CI.
 - [Upcoming Project](#) —
   
 ---
